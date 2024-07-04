@@ -1,5 +1,5 @@
 {
-    "name": "mindbox/sdk",
+    "name": "divan-mindbox/sdk",
     "description": "Mindbox SDK for PHP",
     "keywords": ["mindbox", "sdk"],
     "type": "library",
